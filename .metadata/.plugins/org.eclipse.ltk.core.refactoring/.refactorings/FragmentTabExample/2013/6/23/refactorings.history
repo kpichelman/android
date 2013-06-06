@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;FragmentTabExample/res/layout/child_tab.xml&apos; to &apos;tab_child.xml&apos;" description="Rename resource &apos;child_tab.xml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="res/layout/child_tab.xml" name="tab_child.xml" stamp="1370547106266" updateReferences="true"/>
+</session>
